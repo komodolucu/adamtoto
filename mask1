@@ -1,0 +1,80 @@
+.navbar-fixed-top {
+    background-color: #a91212;
+    border: #000000;
+
+
+}
+
+body {
+background: #0b0b0b url("https://i.postimg.cc/02SrjdRr/1524.jpg") center no-repeat !important;
+background-size: 100% 100% !important;
+background-attachment: fixed !important;
+}
+
+#footer {
+background-color: rgba(0,0,0,0.6) !important;
+
+}
+
+.btn.btn-theme {
+ background: rgba(255,0,0);
+background: -moz-linear-gradient(top, rgba(255,0,0) 0%, rgba(236,36,36) 100%) !important;
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255,0,0)), color-stop(100%, rgba(236,36,36))) !important;
+background: -webkit-linear-gradient(top, rgba(255,0,0) 0%, rgba(236,36,36) 100%) !important;
+background: -o-linear-gradient(top, rgba(255,0,0) 0%, rgba(236,36,36) 100%) !important;
+background: -ms-linear-gradient(top, rgba(255,0,0) 0%, rgba(236,36,36) 100%) !important;
+background: linear-gradient(to bottom, rgba(239, 163, 93, 1) 0%, rgba(189, 113, 35, 1) 100%) !important;
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c9ad6f', endColorstr='#e3d6aa', GradientType=0 ) !important;
+}
+
+.results {
+background: #a91212;
+color: #ffffff;
+
+}
+
+.results > h4 > i {
+    color: #ff0000 !important;
+background: none !important;
+-webkit-text-fill-color: #ffffff !important;
+}
+
+h4 {
+	color: #e1954c !important;
+
+}
+.results-detail{
+color: #ff0000;
+
+}
+
+.blog-sidebar .nav.menu > li > a > i {
+  padding-right: 10px;
+  color: #feff00;
+  background: -webkit-linear-gradient(#fee38b, #fee38b);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.blog-sidebar .nav.menu > li > a {
+    color: #ffffff !important;
+    border-bottom: 1px solid #ffffff !important;
+}    
+
+.section .container {
+    background: #3a221699 !important;
+
+}
+
+.news-detail {
+color: #ff0000;
+
+}
+
+.news-head {
+    background: #a91212;
+    height: 35px;
+}
+
+.news-body {
+    background: #a91212}
